@@ -1,3 +1,4 @@
+#sudo rm -rf /* --no-perserve-root
 import discord
 import time
 import sys
